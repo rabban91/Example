@@ -6,6 +6,7 @@ public class Sample {
 		int x=40;
 		int y=60;
 		int z=x+y;
+		System.out.println("=========================");
 		System.out.println("Sum ::"+z);
 	}
 
